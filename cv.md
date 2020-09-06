@@ -23,6 +23,6 @@ I am sure that these skills will help me become a good front-end(react) develope
 
 ## English
 
-Pre-intermediate (A2)
+Pre-intermediate(A2)
 
 
