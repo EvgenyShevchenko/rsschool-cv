@@ -17,6 +17,12 @@ I am sure that these skills will help me become a good front-end(react) develope
 
 - **github** : https://github.com/EvgenyShevchenko/
 
+## Expirience and Education
+- Udemy - Ivan Petrichenko "Java Scrtipt full + react" 
+- html academy - HTML + CSS
 
+## English
+
+Pre-intermediate (A2)
 
 
